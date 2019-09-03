@@ -1,7 +1,7 @@
 ---
 title: "QAInfomax: Learning robust question answering system by mutual information maximization."
 collection: publications
-permalink: /publication/2019-infomax.md
+permalink: /publication/2019-infomax
 excerpt: '
 **Yi-Ting Yeh**, and Yun-Nung Chen.
 '
