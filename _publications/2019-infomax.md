@@ -12,6 +12,10 @@ codeurl: 'https://github.com/MiuLab/QAInfomax'
 
 ---
 
+**Yi-Ting Yeh**, and Yun-Nung Chen.
 
+[arXiv](https://arxiv.org/abs/1908.05067)
+
+[GitHub](https://github.com/MiuLab/QAInfomax)
 
 
