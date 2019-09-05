@@ -14,8 +14,16 @@ codeurl: 'https://github.com/MiuLab/QAInfomax'
 
 **Yi-Ting Yeh**, and Yun-Nung Chen.
 
-[arXiv](https://arxiv.org/abs/1909.00215)
+Full Paper: [arXiv](https://arxiv.org/abs/1909.00215)
 
-[GitHub](https://github.com/MiuLab/QAInfomax)
+Code: [GitHub](https://github.com/MiuLab/QAInfomax)
 
+Standard accuracy metrics indicate that modern reading comprehension systems have achieved strong performance in many question answering datasets. 
 
+However, the extent these systems truly understand language remains unknown, and existing systems are not good at distinguishing distractor sentences, which look related but do not actually answer the question. 
+
+To address this problem, we propose QAInfomax as a regularizer in reading comprehension systems by maximizing mutual information among passages, a question, and its answer. 
+
+QAInfomax helps regularize the model to not simply learn the superficial correlation for answering questions. 
+
+The experiments show that our proposed QAInfomax achieves the state-of-the-art performance on the benchmark Adversarial-SQuAD dataset. 
