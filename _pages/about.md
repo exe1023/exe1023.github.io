@@ -19,7 +19,9 @@ For more detail, check out my full [CV/resume](https://exe1023.github.io/files/r
 
 ## News:
 
-- 12/2019: I am applying for the Ph.D. program in Fall 2020.
+- 01/2020: I have successfully defensed my master thesis "Toward Accurate and Robust Question Answering Systems"!
+
+- 12/2019: I am applying for the Ph.D. program in Fall 2020. Feel free to contact me if you have an interest in me and my works!
 
 - 11/2019: Our QAInfomax is presented as oral presentation in EMNLP 2019!
 
