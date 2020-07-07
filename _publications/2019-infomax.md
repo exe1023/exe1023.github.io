@@ -18,6 +18,8 @@ Full Paper: [arXiv](https://arxiv.org/abs/1909.00215)
 
 Code: [GitHub](https://github.com/MiuLab/QAInfomax)
 
+Video: [Vimeo](https://vimeo.com/426361695)
+
 Standard accuracy metrics indicate that modern reading comprehension systems have achieved strong performance in many question answering datasets. 
 
 However, the extent these systems truly understand language remains unknown, and existing systems are not good at distinguishing distractor sentences, which look related but do not actually answer the question. 

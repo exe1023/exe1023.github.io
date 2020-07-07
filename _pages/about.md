@@ -8,22 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yi-Ting Yeh (葉奕廷). 
-I am currently a second-year master student working with [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/) in the Department of Computer Science and Information Engineering at National Taiwan University.
-I am interested in various research topics about Machine Learning, Natural Language Processing, and dialogue systems.
+My name is Yi-Ting Yeh (葉奕廷) from Taiwan, a master student in Language Technologies Institute at Carnegie Mellon University. 
+I worked with [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/) on various research topics about natural language processing with machine learning and dialogue systems.
 
-I received my B.S. from the Department of Computer Science and Information Engineering at National Taiwan University.
+I received my bachelor's degree and master's degree from the Department of Computer Science and Information Engineering at National Taiwan University.
 Previously, I was an intern at [Yahoo!](https://tw.yahoo.com/), and [Taiwan AI Labs](https://ailabs.tw/).
 
 For more detail, check out my full [CV/resume](https://exe1023.github.io/files/resume.pdf) and also feel free to contact me via email: exe102343@gmail.com
 
 ## News:
 
+- 06/2020: I will join MLT program in Language Technologies Institute at Carnegie Mellon University!
+
 - 01/2020: I have successfully defensed my master thesis "Toward Accurate and Robust Question Answering Systems"!
 
-- 12/2019: I am applying for the Ph.D. program in Fall 2020. Feel free to contact me if you have an interest in me and my works!
+- 12/2019: I am applying for the Master and Ph.D.  CS program in Fall 2020. Feel free to contact me if you have an interest in me and my works!
 
-- 11/2019: Our QAInfomax is presented as oral presentation in EMNLP 2019!
+- 11/2019: Our QAInfomax is presented as oral presentation in EMNLP 2019! ([Video](https://vimeo.com/426361695))
 
 - 10/2019: Our paper [QAInfomax](https://arxiv.org/abs/1909.00215) is accepted by [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/) (Hong Kong).
 
