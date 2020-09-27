@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi-Ting Yeh"
 title_separator          : "-"
 name                     : &name "Yi-Ting Yeh"
-description              : &description "Master student at National Taiwan University"
+description              : &description "Master student in Language Technologies Institute at Carnegie Mellon University"
 url                      : https://exe1023.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "exe1023.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yi-Ting Yeh"
   avatar           : "my_profile.png"
-  bio              : "Master student at National Taiwan University, research interests cover Machine Learning, Natural Language Processing and dialogue systems."
-  location         : "Taipei, Taiwan"
+  bio              : "Master student in Language Technologies Institute at Carnegie Mellon University. Research interests cover Machine Learning, Natural Language Processing and dialogue systems."
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Twz4wcoAAAAJ&hl=zh-TW"

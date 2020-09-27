@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yi-Ting Yeh (葉奕廷) from Taiwan, a master student in Language Technologies Institute at Carnegie Mellon University. 
-I worked with [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/) on various research topics about natural language processing with machine learning and dialogue systems.
+My name is Yi-Ting Yeh (葉奕廷) from Taiwan, a master student in Language Technologies Institute at Carnegie Mellon University.
+Now I work with [Jeffrey Bigham](https://www.cs.cmu.edu/~jbigham/) and [Maxine Eskenazi](https://www.cs.cmu.edu/~max/) on dialog systems.
+Previously, I worked with [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/) on various research topics about natural language processing with machine learning such as question answering, natural language generation and dialogue systems.
 
 I received my bachelor's degree and master's degree from the Department of Computer Science and Information Engineering at National Taiwan University.
-Previously, I was an intern at [Yahoo!](https://tw.yahoo.com/), and [Taiwan AI Labs](https://ailabs.tw/).
+I was an intern at [Yahoo!](https://tw.yahoo.com/), and [Taiwan AI Labs](https://ailabs.tw/).
 
 For more detail, check out my full [CV/resume](https://exe1023.github.io/files/resume.pdf) and also feel free to contact me via email: exe102343@gmail.com
 
