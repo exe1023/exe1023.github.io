@@ -19,6 +19,8 @@ For more detail, check out my full [CV/resume](https://exe1023.github.io/files/r
 
 ## News:
 
+- 09/2020: I received the Best Master Thesis Award from The Association for Computational Linguistics and Chinese Language Processing (ACLCLP)!
+
 - 06/2020: I will join MLT program in Language Technologies Institute at Carnegie Mellon University!
 
 - 01/2020: I have successfully defensed my master thesis "Toward Accurate and Robust Question Answering Systems"!
